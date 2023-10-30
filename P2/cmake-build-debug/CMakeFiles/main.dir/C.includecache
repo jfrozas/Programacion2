@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/guill/CLionProjects/Practica 2/P2/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+types.h
+C:/Users/guill/CLionProjects/Practica 2/P2/types.h
+video_list.h
+C:/Users/guill/CLionProjects/Practica 2/P2/video_list.h
+user_list.h
+C:/Users/guill/CLionProjects/Practica 2/P2/user_list.h
+
+C:/Users/guill/CLionProjects/Practica 2/P2/types.h
+
+C:/Users/guill/CLionProjects/Practica 2/P2/user_list.h
+types.h
+C:/Users/guill/CLionProjects/Practica 2/P2/types.h
+video_list.h
+C:/Users/guill/CLionProjects/Practica 2/P2/video_list.h
+stdbool.h
+-
+
+C:/Users/guill/CLionProjects/Practica 2/P2/video_list.h
+stdbool.h
+-
+types.h
+C:/Users/guill/CLionProjects/Practica 2/P2/types.h
+

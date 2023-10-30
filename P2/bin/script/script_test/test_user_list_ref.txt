@@ -1,0 +1,16 @@
+()
+( nick3 totalPlayTime 0)
+( nick1 totalPlayTime 0 nick3 totalPlayTime 0)
+( nick1 totalPlayTime 0 nick3 totalPlayTime 0 nick5 totalPlayTime 0)
+( nick1 totalPlayTime 0 nick2 totalPlayTime 0 nick3 totalPlayTime 0 nick5 totalPlayTime 0)
+( nick1 totalPlayTime 0 nick2 totalPlayTime 0 nick3 totalPlayTime 0 nick4 totalPlayTime 0 nick5 totalPlayTime 0)
+nick33 Not found
+nick3 found
+nick3 updated totalPlayTime 100
+( nick1 totalPlayTime 0 nick2 totalPlayTime 0 nick3 totalPlayTime 100 nick4 totalPlayTime 0 nick5 totalPlayTime 0)
+( nick1 totalPlayTime 0 nick3 totalPlayTime 100 nick4 totalPlayTime 0 nick5 totalPlayTime 0)
+( nick1 totalPlayTime 0 nick3 totalPlayTime 100 nick5 totalPlayTime 0)
+( nick3 totalPlayTime 100 nick5 totalPlayTime 0)
+( nick3 totalPlayTime 100)
+()
+( nick4 totalPlayTime 0)

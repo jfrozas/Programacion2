@@ -1,0 +1,14 @@
+01 N nick2  standard                           #new user nick2 category standard
+02 S
+03 N nick1  premium                            #new user nick1 category premium
+04 S
+05 A nick1  video1                         	 #add user video1 to nick1
+06 S
+07 A nick1  video3                         	 #add user video3 to nick1
+08 S
+09 P nick1  video3  11                        #nick1 play video3 11 min
+10 S
+11 P nick1  video1  25                        #nick1 play video1 25 min
+12 S
+13 P nick2  video1  2                         #error: nick2 without video1
+14 S

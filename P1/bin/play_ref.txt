@@ -1,0 +1,36 @@
+********************
+01 N: nick nick1 category standard
+* New: nick nick1 category standard
+********************
+02 S
+Nick nick1 category standard numplays 0
+Category   Users  Plays  Average
+Standard    1     0     0.00
+Premium     0     0     0.00
+********************
+03 P: nick nick1 video video1
+* Play: nick nick1 plays video video1 numplays 1
+********************
+04 S
+Nick nick1 category standard numplays 1
+Category   Users  Plays  Average
+Standard    1     1     1.00
+Premium     0     0     0.00
+********************
+05 P: nick nick1 video video2
+* Play: nick nick1 plays video video2 numplays 2
+********************
+06 S
+Nick nick1 category standard numplays 2
+Category   Users  Plays  Average
+Standard    1     2     2.00
+Premium     0     0     0.00
+********************
+07 P: nick nick2 video video2
++ Error: Play not possible
+********************
+08 S
+Nick nick1 category standard numplays 2
+Category   Users  Plays  Average
+Standard    1     2     2.00
+Premium     0     0     0.00

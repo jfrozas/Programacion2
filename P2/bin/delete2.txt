@@ -1,0 +1,6 @@
+01 N nick2  standard                       #new user nick2 category standard
+02 N nick3  standard                       #new user nick3 category standard
+03 N nick1  standard                       #new user nick1 category standard
+04 S
+05 D nick2                                   #delete user nick2 
+06 S

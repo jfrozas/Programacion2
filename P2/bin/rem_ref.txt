@@ -1,0 +1,86 @@
+********************
+01 N: nick nick1 category standard
+* New: nick nick1 category standard
+********************
+02 A: nick nick1 video video1
+* Add: nick nick1 adds video video1
+********************
+03 P: nick nick1 video video1 minutes 15
+* Play: nick nick1 plays video video1 playtime 15 totalplaytime 15
+********************
+04 N: nick nick2 category standard
+* New: nick nick2 category standard
+********************
+05 A: nick nick2 video video2
+* Add: nick nick2 adds video video2
+********************
+06 P: nick nick2 video video2 minutes 16
+* Play: nick nick2 plays video video2 playtime 16 totalplaytime 16
+********************
+07 N: nick nick0 category standard
+* New: nick nick0 category standard
+********************
+08 A: nick nick0 video video1
+* Add: nick nick0 adds video video1
+********************
+09 P: nick nick0 video video1 minutes 11
+* Play: nick nick0 plays video video1 playtime 11 totalplaytime 11
+********************
+10 N: nick nick4 category standard
+* New: nick nick4 category standard
+********************
+11 A: nick nick4 video video2
+* Add: nick nick4 adds video video2
+********************
+12 P: nick nick4 video video2 minutes 22
+* Play: nick nick4 plays video video2 playtime 22 totalplaytime 22
+********************
+13 N: nick nick5 category premium
+* New: nick nick5 category premium
+********************
+14 A: nick nick5 video video5
+* Add: nick nick5 adds video video5
+********************
+15 P: nick nick5 video video5 minutes 16
+* Play: nick nick5 plays video video5 playtime 16 totalplaytime 16
+********************
+16 N: nick nick6 category standard
+* New: nick nick6 category standard
+********************
+17 A: nick nick6 video video3
+* Add: nick nick6 adds video video3
+********************
+18 P: nick nick6 video video3 minutes 47
+* Play: nick nick6 plays video video3 playtime 47 totalplaytime 47
+********************
+19 S
+*Nick nick0 category standard totalplaytime  11
+Video video1 playtime 11
+*Nick nick1 category standard totalplaytime  15
+Video video1 playtime 15
+*Nick nick2 category standard totalplaytime  16
+Video video2 playtime 16
+*Nick nick4 category standard totalplaytime  22
+Video video2 playtime 22
+*Nick nick5 category premium totalplaytime  16
+Video video5 playtime 16
+*Nick nick6 category standard totalplaytime  47
+Video video3 playtime 47
+Category  Users  TimePlay  Average
+Standard      5       111    22.20
+Premium       1        16    16.00
+********************
+20 R: maxtime 13
+Removing nick nick1, totalplaytime 15
+Removing nick nick2, totalplaytime 16
+Removing nick nick4, totalplaytime 22
+Removing nick nick6, totalplaytime 47
+********************
+21 S
+*Nick nick0 category standard totalplaytime  11
+Video video1 playtime 11
+*Nick nick5 category premium totalplaytime  16
+Video video5 playtime 16
+Category  Users  TimePlay  Average
+Standard      1        11    11.00
+Premium       1        16    16.00

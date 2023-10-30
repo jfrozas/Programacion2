@@ -1,0 +1,32 @@
+********************
+01 N: nick nick2 category standard
+* New: nick nick2 category standard
+********************
+02 N: nick nick3 category standard
+* New: nick nick3 category standard
+********************
+03 N: nick nick1 category standard
+* New: nick nick1 category standard
+********************
+04 S
+*Nick nick1 category standard totalplaytime 0
+No videos
+*Nick nick2 category standard totalplaytime 0
+No videos
+*Nick nick3 category standard totalplaytime 0
+No videos
+Category  Users  TimePlay  Average
+Standard      3         0     0.00
+Premium       0         0     0.00
+********************
+05 D: nick nick2
+* Delete: nick nick2 category standard totalplaytime 0
+********************
+06 S
+*Nick nick1 category standard totalplaytime 0
+No videos
+*Nick nick3 category standard totalplaytime 0
+No videos
+Category  Users  TimePlay  Average
+Standard      2         0     0.00
+Premium       0         0     0.00

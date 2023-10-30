@@ -1,0 +1,8 @@
+01 N nick1    standard                       #new user nick1 category standard
+02 S
+03 P nick1    video1                         #user nick1 plays video1
+04 S
+05 P nick1    video2                         #user nick1 plays video2
+06 S
+07 P nick2    video2                         #Error: Play not possible
+08 S

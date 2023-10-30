@@ -1,0 +1,5 @@
+C:/Users/guill/CLionProjects/Practica 2/P2/cmake-build-debug/CMakeFiles/test_video_list.dir
+C:/Users/guill/CLionProjects/Practica 2/P2/cmake-build-debug/CMakeFiles/test_user_list.dir
+C:/Users/guill/CLionProjects/Practica 2/P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guill/CLionProjects/Practica 2/P2/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/guill/CLionProjects/Practica 2/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/guill/CLionProjects/P1/dynamic_list.c
+dynamic_list.h
+C:/Users/guill/CLionProjects/P1/dynamic_list.h
+types.h
+C:/Users/guill/CLionProjects/P1/types.h
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/guill/CLionProjects/P1/dynamic_list.h
+types.h
+C:/Users/guill/CLionProjects/P1/types.h
+stdbool.h
+-
+
+C:/Users/guill/CLionProjects/P1/types.h
+

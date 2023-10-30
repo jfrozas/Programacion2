@@ -1,0 +1,8 @@
+01 N nick2  standard                           #new user nick2 category standard
+02 S
+03 N nick1  premium                            #new user nick1 category premium
+04 S
+05 A nick1  video1                         	 #add user video1 to nick1
+06 S
+07 A nick1  video1                         	 #add user video3 to nick1
+08 S

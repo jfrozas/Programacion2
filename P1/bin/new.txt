@@ -1,0 +1,8 @@
+01 N nick1    standard                           #new user nick1 category standard
+02 S
+03 N nick2    premium                            #new user nick2 category premium
+04 S
+05 N nick3    premium                            #new user nick2 category premium
+06 S
+07 N nick1    premium                            #error: new not possible
+08 S
